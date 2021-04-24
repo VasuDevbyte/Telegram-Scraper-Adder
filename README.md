@@ -34,8 +34,7 @@
 
 `$ pkg install git`
 
-`$ git clone https://github.com/VasuDevbyte/Telegram-Scraper-Adder
-
+`$ git clone https://github.com/VasuDevbyte/Telegramscraper
 `$ cd Telegram-Scraper-Adder`
 
 * Install requierments & Setup Configuration File. ( apiID, apiHash )
